@@ -1,6 +1,6 @@
 # orula
 
-Glasgow Graduation Project - Learning Platform
+CYF Project - Learning Platform
 
 # Get started
 
